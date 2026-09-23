@@ -152,6 +152,7 @@ AgentOps keeps agent behaviour observable, evaluable, constrained, and governabl
 - [PyRIT](https://github.com/Azure/PyRIT) - Microsoft framework for red teaming generative AI systems.
 - [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner and red-teaming tool.
 - [Invariant](https://github.com/invariantlabs-ai/invariant) - Testing and guardrails for agent behaviour and tool use.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 Operational topics to cover in production reviews:
 
